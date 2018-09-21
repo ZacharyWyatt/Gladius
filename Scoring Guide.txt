@@ -1,0 +1,5 @@
+Victory - 20 Points
+Remaining shield health at end of each level - 5 points per bar
+Remaining player health at end of each level - 7 points per bar
+Arrow blocked - 1 point
+Strike landed on enemy - 3 points
